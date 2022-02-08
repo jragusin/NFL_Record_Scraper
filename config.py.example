@@ -1,0 +1,8 @@
+# Change this file to 'Config.py' and enter your database information below
+
+DATABASE = {
+    "hostname": "",
+    "dbname": "",
+    "user": "",
+    "passwors": "",
+}
